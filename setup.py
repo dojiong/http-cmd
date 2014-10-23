@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='http-cmd',
-    version='0.1-dev',
+    version='0.1',
     url='https://github.com/lodevil/http-cmd',
     license='Apache License 2.0',
     author='lolynx',
